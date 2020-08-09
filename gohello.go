@@ -1,5 +1,5 @@
 package gohello
 
 func Hello() string {
-	return "hello in gohello asdf"
+	return "hello in gohello asdf001"
 }
