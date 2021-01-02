@@ -1,5 +1,5 @@
 package gohello
 
 func Hello() string {
-	return "hello in gohello v8.0.4"
+	return "hello in gohello v9.0.0"
 }
