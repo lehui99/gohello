@@ -1,5 +1,5 @@
-package gohello
+package gohello/v5
 
 func Hello() string {
-	return "hello in gohello asdf"
+	return "hello in gohello v5"
 }
